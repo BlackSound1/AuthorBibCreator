@@ -9,7 +9,7 @@ For documentation, many comments have been included, including javadoc. Note tha
 
 The .bib files are a given data set, and may be replaced with whatever .bib files you need. They must contain academic articles written in .json.
 
-What I learned (and techniques I used) i this project:
+What I learned (and techniques I used) in this project:
 - File I/O
 - Exception Handling
 - Regular Expressions
